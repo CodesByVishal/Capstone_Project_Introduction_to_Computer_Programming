@@ -1,13 +1,13 @@
 
-Computer Programming project assesses Python skills: data types, indexing, operators, loops, OOPs, exception handling. 
-Skills: Python proficiency, data manipulation, loops, functions, OOPs. Deliverables: Python solutions, Collab links, video explanations.
+# Computer Programming project assesses Python skills: data types, indexing, operators, loops, OOPs, exception handling. 
+# Skills: Python proficiency, data manipulation, loops, functions, OOPs. Deliverables: Python solutions, Collab links, video explanations.
 
-Guidelines
-1. About the Project:
+### Guidelines
+# 1. About the Project:
 
 The Introduction to Computer Programming project is designed to evaluate your understanding and practical application of fundamental programming concepts using Python. This assessment encompasses various topics, including data types, indexing, slicing, operators, in-built functions, statements, conditionals, loops, object-oriented programming, and exception handling. In addition, you will showcase your ability to create custom functions and tackle advanced looping concepts.
 
-2. Skills Required:
+# 2. Skills Required:
 
 To successfully complete this project assessment, you should possess the following skills and knowledge:
 
