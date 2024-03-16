@@ -1,5 +1,6 @@
 
 Computer Programming project assesses Python skills: Data types, indexing, operators, loops, OOPs, exception handling. 
+
 Skills: Python proficiency, data manipulation, loops, functions, OOPs. Deliverables: Python solutions, Collab links, video explanations.
 
 ### Guidelines
