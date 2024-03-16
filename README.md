@@ -1,46 +1,29 @@
-# Capstone_Project_Introduction_to_Computer_Programming
-Computer Programming project assesses Python skills: data types, indexing, operators, loops, OOPs, exception handling. Skills: Python proficiency, data manipulation, loops, functions, OOPs. Deliverables: Python solutions, Collab links, video explanations.
+## PROJECT SUMMARY
+Telecom companies often struggle with customer churn, which refers to the number of customers who leave the company over a given period. In this project, I aimed to analyze the churn rate of a telecom company and identify the factors that contribute to customer churn.
 
-Guidelines
-1. About the Project:
+# PROBLEM STATEMENT
+Orange S.A., formerly France Télécom S.A., is a French multinational telecommunications corporation. The Orange Telecom's Churn Dataset, consists of cleaned customer activity data (features), along with a churn label specifying whether a customer cancelled the subscription. Explore and analyze the data to discover key factors responsible for customer churn and come up with ways/recommendations to ensure customer retention.
 
-The Introduction to Computer Programming project is designed to evaluate your understanding and practical application of fundamental programming concepts using Python. This assessment encompasses various topics, including data types, indexing, slicing, operators, in-built functions, statements, conditionals, loops, object-oriented programming, and exception handling. In addition, you will showcase your ability to create custom functions and tackle advanced looping concepts.
+# DEFINE YOUR BUSINESS OBJECTIVES ?
+(1) Identifying the key cause of the customer churn
 
-2. Skills Required:
+(2) Provide steps to retain the valuable customer
 
-To successfully complete this project assessment, you should possess the following skills and knowledge:
+# General Guidelines : -
+Well-structured, formatted, and commented code is required.
 
-Proficiency in Python programming language
-Understanding of data types, indexing, and slicing in Python
-Familiarity with operators, in-built functions, and methods
-Ability to work with statements, indentation, and conditionals
-Competence in implementing loops and iterations, including conditional and infinite looping
-Mastery of creating and utilizing custom functions in Python
-Knowledge of advanced looping concepts
-Understanding of object-oriented programming (OOPs) principles in Python
-Ability to handle exceptions in your code
-3. Deliverables:
+Exception Handling, Production Grade Code & Deployment Ready Code will be a plus. Those students will be awarded some additional credits.
 
-You are required to submit the following items for evaluation:
+The additional credits will have advantages over other students during Star Student selection.
 
-Completed Python coding solutions for the given questions (coding assessment)
-Collab link containing your Python code for each question
-Video explanation for any five coding questions (demonstrating your understanding and approach)
-4. Rubrics:
+    [ Note: - Deployment Ready Code is defined as, the whole .ipynb notebook should be executable in one go
+              without a single error logged. ]
+Each and every logic should have proper comments.
 
-Your project assessment will be evaluated based on the following rubrics:
+You may add as many number of charts you want. Make Sure for each and every chart the following format should be answered.
 
-a. Coding Assessment:
-
-Correctness of the code solution
-Efficient use of coding constructs
-Clear and well-structured code organization
-b. Collab Link:
-
-Submission of Python code through the provided Collab link
-Proper organization of code files and resources
-c. Video Explanation:
-
-Clear articulation of solution approach
-Coverage of important concepts and logic
-Coherent and well-structured explanation
+# Chart visualization code
+Why did you pick the specific chart?
+What is/are the insight(s) found from the chart?
+Will the gained insights help creating a positive business impact? Are there any insights that lead to negative growth? Justify with specific reason.
+You have to create at least 20 logical & meaningful charts having important insights.
